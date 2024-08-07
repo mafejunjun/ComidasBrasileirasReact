@@ -1,0 +1,30 @@
+{
+    "regiao": "Sul",
+    "top_pratos": [
+        {
+          "titulo": "Barreado",
+          "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Barreado.jpg/800px-Barreado.jpg"
+        },
+        {
+          "titulo": "Churrasco gaúcho",
+          "imagem": "https://img.band.uol.com.br/image/2023/09/20/helena-rizzo-conta-como-e-o-verdadeiro-churrasco-gaucho-16041.jpg"
+        },
+        {
+          "titulo": "Arroz de carreteiro",
+          "imagem": "https://d1uz88p17r663j.cloudfront.net/original/c63d235dda5c15c6abbd9ec854d13728_arroz-carreteiro-receitas-nestle.jpg"
+        },
+        {
+          "titulo": "Feijão tropeiro",
+          "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/80d5d91b377b35da2338d66e35ba21ee.jpg"
+        },
+        {
+          "titulo": "Cuca",
+          "imagem": "https://www.rbsdirect.com.br/filestore/3/9/8/9/3/7/4_380c3b7e13aa4fe/4739893_39c526b1c07f380.jpg?version=1575255600"
+        },
+        {
+          "titulo": "Sagu com creme",
+          "imagem": "https://www.estadao.com.br/resizer/v2/H5HHQ3WB5FHP7OE7AYDBGC2KFM.jpg?quality=80&auth=55d1c723f8a6a0424eb64a7071563bd452560173bbbf719571a91188372c6586&width=720&height=503&smart=true"
+        }
+      ]
+  }
+  

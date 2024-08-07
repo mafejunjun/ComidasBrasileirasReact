@@ -1,0 +1,31 @@
+{
+  
+    "regiao": "Nordeste",
+    "top_pratos": [
+        {
+          "titulo": "Acarajé",
+          "imagem": "https://naoca.blog.br/wp-content/uploads/2023/10/Design-sem-nome-14.jpg.webp"
+        },
+        {
+          "titulo": "Moqueca baiana",
+          "imagem": "https://receitinhas.com.br/wp-content/uploads/2022/06/moqueca-de-peixe-baiana-1200x800.jpg"
+        },
+        {
+          "titulo": "Arroz de cuxá",
+          "imagem": "https://conteudo.imguol.com.br/c/entretenimento/5e/2020/08/03/arroz-de-cuxa---receitas-eno-1596486529246_v2_1x1.jpg"
+        },
+        {
+          "titulo": "Carne de sol com mandioca",
+          "imagem": "https://i.ytimg.com/vi/IkpOI-kl1ts/sddefault.jpg"
+        },
+        {
+          "titulo": "Cuscuz nordestino",
+          "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2024/04/cuscuz-nordestino.jpg"
+        },
+        {
+          "titulo": "Bobó de Camarão",
+          "imagem": "https://bakeandcakegourmet.com.br/uploads/site/receitas/bobo-de-camarao-jpslkdad.jpg"
+        }
+      ]
+  }
+  

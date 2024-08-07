@@ -1,0 +1,152 @@
+{
+    "pratos_brasileiros": [
+      {
+        "regiao": "Norte",
+        "top_pratos": [
+          {
+            "titulo": "Tacacá",
+            "imagem": "https://acozinhabrasileira.com.br/wp-content/uploads/2021/09/receita-de-tacaca.jpg"
+        
+          },
+          {
+            "titulo": "Açaí na tigela",
+            "imagem": "https://i.pinimg.com/originals/b3/e0/a5/b3e0a5678eccd90997a85adb6bbcbbfc.jpg"
+
+          },
+          {
+            "titulo": "Pirarucu de casaca",
+            "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/pirarucu-de-casaca-37765.jpg"
+          },
+          {
+            "titulo": "Maniçoba",
+            "imagem": "https://img.estadao.com.br/resources/jpg/3/5/1477521433153.jpg"
+          },
+          {
+            "titulo": "Pato no tucupi",
+            "imagem": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/3HQ7FB53YNL7LJ66SVKA6KASYQ.jpg"
+          },
+          {
+            "titulo": "Vatapá paraense",
+            "imagem": "https://naoca.blog.br/wp-content/uploads/2023/10/Design-sem-nome-14.jpg.webp"
+          }
+        ]
+      },
+      {
+        "regiao": "Nordeste",
+        "top_pratos": [
+          {
+            "titulo": "Acarajé",
+            "imagem": "https://naoca.blog.br/wp-content/uploads/2023/10/Design-sem-nome-14.jpg.webp"
+          },
+          {
+            "titulo": "Moqueca baiana",
+            "imagem": "https://receitinhas.com.br/wp-content/uploads/2022/06/moqueca-de-peixe-baiana-1200x800.jpg"
+          },
+          {
+            "titulo": "Arroz de cuxá",
+            "imagem": "https://conteudo.imguol.com.br/c/entretenimento/5e/2020/08/03/arroz-de-cuxa---receitas-eno-1596486529246_v2_1x1.jpg"
+          },
+          {
+            "titulo": "Carne de sol com mandioca",
+            "imagem": "https://i.ytimg.com/vi/IkpOI-kl1ts/sddefault.jpg"
+          },
+          {
+            "titulo": "Cuscuz nordestino",
+            "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2024/04/cuscuz-nordestino.jpg"
+          },
+          {
+            "titulo": "Bobó de Camarão",
+            "imagem": "https://bakeandcakegourmet.com.br/uploads/site/receitas/bobo-de-camarao-jpslkdad.jpg"
+          }
+        ]
+      },
+      {
+        "regiao": "Centro-Oeste",
+        "top_pratos": [
+          {
+            "titulo": "Pintado ao urucum",
+            "imagem": "https://s2-receitas.glbimg.com/EMxD6mErinVNm9wdeER-iiFa-w4=/0x0:851x315/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2015/03/11/00_18_23_295_10881694_877757958937730_4549353441767999916_n.png"
+          },
+          {
+            "titulo": "Arroz com pequi",
+            "imagem": "https://img.band.uol.com.br/image/2023/03/21/arroz-com-pequi-155928.jpg"
+          },
+          {
+            "titulo": "Vaca Atolada",
+            "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2022/10/02/855550656-vaca-atolada-receita.jpg"
+          },
+          {
+            "titulo": "Caldo de piranha",
+            "imagem": "https://receiterapia.com.br/wp-content/uploads/2022/08/como-fazer-caldo-de-piranha.jpg"
+          },
+          {
+            "titulo": "Doce de pequi",
+            "imagem": "https://i.ytimg.com/vi/D_AAifEk1h0/sddefault.jpg"
+          },
+          {
+            "titulo": "Pamonha",
+            "imagem": "https://www.hojetemfrango.com.br/wp-content/uploads/2019/02/shutterstock_399135895.jpg"
+          }
+        ]
+      },
+      {
+        "regiao": "Sudeste",
+        "top_pratos": [
+          {
+            "titulo": "Feijoada",
+            "imagem": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/10/07/677992164-feijoada.jpg"
+          },
+          {
+            "titulo": "Virado à paulista",
+            "imagem": "https://static.itdg.com.br/images/360-240/0f2ceb0848218d1f2cffb6899a5eede1/355376-original.jpg"
+          },
+          {
+            "titulo": "Tutu à mineira",
+            "imagem": "https://static.itdg.com.br/images/1200-630/f40e3923aa0e2deed1c3cf30a7b3bbee/320589-original.jpg"
+          },
+          {
+            "titulo": "Pão de queijo",
+            "imagem": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/4KY3G2SXOBJPJDNFACJREWJE7M.jpg"
+          },
+          {
+            "titulo": "Frango com quiabo",
+            "imagem": "https://www.mundoboaforma.com.br/wp-content/uploads/2022/11/Frango-com-quiabo.jpg"
+          },
+          {
+            "titulo": "Rabada",
+            "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2023/07/rabada-na-pressao.jpg"
+          }
+        ]
+      },
+      {
+        "regiao": "Sul",
+        "top_pratos": [
+          {
+            "titulo": "Barreado",
+            "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Barreado.jpg/800px-Barreado.jpg"
+          },
+          {
+            "titulo": "Churrasco gaúcho",
+            "imagem": "https://img.band.uol.com.br/image/2023/09/20/helena-rizzo-conta-como-e-o-verdadeiro-churrasco-gaucho-16041.jpg"
+          },
+          {
+            "titulo": "Arroz de carreteiro",
+            "imagem": "https://d1uz88p17r663j.cloudfront.net/original/c63d235dda5c15c6abbd9ec854d13728_arroz-carreteiro-receitas-nestle.jpg"
+          },
+          {
+            "titulo": "Feijão tropeiro",
+            "imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/80d5d91b377b35da2338d66e35ba21ee.jpg"
+          },
+          {
+            "titulo": "Cuca",
+            "imagem": "https://www.rbsdirect.com.br/filestore/3/9/8/9/3/7/4_380c3b7e13aa4fe/4739893_39c526b1c07f380.jpg?version=1575255600"
+          },
+          {
+            "titulo": "Sagu com creme",
+            "imagem": "https://www.estadao.com.br/resizer/v2/H5HHQ3WB5FHP7OE7AYDBGC2KFM.jpg?quality=80&auth=55d1c723f8a6a0424eb64a7071563bd452560173bbbf719571a91188372c6586&width=720&height=503&smart=true"
+          }
+        ]
+      }
+    ]
+  }
+  

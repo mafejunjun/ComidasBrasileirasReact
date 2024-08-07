@@ -1,0 +1,32 @@
+{
+    "regiao": "Norte",
+    "top_pratos": [
+        {
+          "titulo": "Tacacá",
+          "imagem": "https://acozinhabrasileira.com.br/wp-content/uploads/2021/09/receita-de-tacaca.jpg"
+      
+        },
+        {
+          "titulo": "Açaí na tigela",
+          "imagem": "https://i.pinimg.com/originals/b3/e0/a5/b3e0a5678eccd90997a85adb6bbcbbfc.jpg"
+
+        },
+        {
+          "titulo": "Pirarucu de casaca",
+          "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/pirarucu-de-casaca-37765.jpg"
+        },
+        {
+          "titulo": "Maniçoba",
+          "imagem": "https://img.estadao.com.br/resources/jpg/3/5/1477521433153.jpg"
+        },
+        {
+          "titulo": "Pato no tucupi",
+          "imagem": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/3HQ7FB53YNL7LJ66SVKA6KASYQ.jpg"
+        },
+        {
+          "titulo": "Vatapá paraense",
+          "imagem": "https://naoca.blog.br/wp-content/uploads/2023/10/Design-sem-nome-14.jpg.webp"
+        }
+      ]
+  }
+  

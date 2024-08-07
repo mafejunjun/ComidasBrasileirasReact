@@ -1,0 +1,30 @@
+{
+    "regiao": "Centro-Oeste",
+    "top_pratos": [
+        {
+          "titulo": "Pintado ao urucum",
+          "imagem": "https://s2-receitas.glbimg.com/EMxD6mErinVNm9wdeER-iiFa-w4=/0x0:851x315/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2015/03/11/00_18_23_295_10881694_877757958937730_4549353441767999916_n.png"
+        },
+        {
+          "titulo": "Arroz com pequi",
+          "imagem": "https://img.band.uol.com.br/image/2023/03/21/arroz-com-pequi-155928.jpg"
+        },
+        {
+          "titulo": "Vaca Atolada",
+          "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2022/10/02/855550656-vaca-atolada-receita.jpg"
+        },
+        {
+          "titulo": "Caldo de piranha",
+          "imagem": "https://receiterapia.com.br/wp-content/uploads/2022/08/como-fazer-caldo-de-piranha.jpg"
+        },
+        {
+          "titulo": "Doce de pequi",
+          "imagem": "https://i.ytimg.com/vi/D_AAifEk1h0/sddefault.jpg"
+        },
+        {
+          "titulo": "Pamonha",
+          "imagem": "https://www.hojetemfrango.com.br/wp-content/uploads/2019/02/shutterstock_399135895.jpg"
+        }
+      ]
+  }
+  

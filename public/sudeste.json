@@ -1,0 +1,30 @@
+{
+    "regiao": "Sudeste",
+    "top_pratos": [
+        {
+          "titulo": "Feijoada",
+          "imagem": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/10/07/677992164-feijoada.jpg"
+        },
+        {
+          "titulo": "Virado à paulista",
+          "imagem": "https://static.itdg.com.br/images/360-240/0f2ceb0848218d1f2cffb6899a5eede1/355376-original.jpg"
+        },
+        {
+          "titulo": "Tutu à mineira",
+          "imagem": "https://static.itdg.com.br/images/1200-630/f40e3923aa0e2deed1c3cf30a7b3bbee/320589-original.jpg"
+        },
+        {
+          "titulo": "Pão de queijo",
+          "imagem": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/4KY3G2SXOBJPJDNFACJREWJE7M.jpg"
+        },
+        {
+          "titulo": "Frango com quiabo",
+          "imagem": "https://www.mundoboaforma.com.br/wp-content/uploads/2022/11/Frango-com-quiabo.jpg"
+        },
+        {
+          "titulo": "Rabada",
+          "imagem": "https://guiadacozinha.com.br/wp-content/uploads/2023/07/rabada-na-pressao.jpg"
+        }
+      ]
+  }
+  
